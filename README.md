@@ -3,6 +3,11 @@
 A fun and simple browser-based number matching game built with **HTML, CSS, and JavaScript**.
 
 ---
+## 🔗 Live Demo
+
+👉 [Play the Game](https://target-gam.netlify.app/)
+
+---
 
 ## 🕹️ How to Play
 
@@ -23,8 +28,8 @@ A fun and simple browser-based number matching game built with **HTML, CSS, and 
 
 ## 📸 Screenshot
 
-> *(Insert a screenshot of the game here)*  
-> ![Game Screenshot](image/screenShot.png)
+>![Game Screenshot](Image/screenShot.png)
+
 
 ---
 
